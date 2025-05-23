@@ -2,7 +2,7 @@
 
 <div style="text-align: center">
 <a href="link">
-<img src="https://github.com/emelyagr/Katyusha-LSB-Steganography/blob/main/LogoKatyushaLSB.png" align="center"></a>
+<img src="https://github.com/emelyagr/Katyusha-LSB-Steganography/blob/main/LogoKatyushaLSB.png" align="center" width="400" height="400"></a>
 </div>
 <img src="https://github.com/emelyagr/Katyusha-LSB-Steganography/blob/main/LogoKatyushaLSB.png" class="center" width="400" height="400">
 Katyusha - LSB Steganography — это веб-программа, реализующая метод LSB с изображениями. LSB (Least Significant Bit — «Наименее значимый бит») — это метод стеганографии, который заключается в выделении наименее значимых бит изображения-контейнера с последующей их заменой на биты сообщения таким образом, чтобы исходное изображение и стегоконтейнер не были различимы человеческому глазу. Применяется для передачи секретных сообщений.
